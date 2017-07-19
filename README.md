@@ -10,6 +10,8 @@ $ npm install --save @ionic-native/admob-free
 
 run the project on real device and you will see ads shown
 
-`
+```
+$ ionic cordova run android
+```
 
 
